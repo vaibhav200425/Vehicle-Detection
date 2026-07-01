@@ -77,8 +77,3 @@ pip install ultralytics
 2. **Add your Dataset Link:** In the "Dataset" section, add the link to the [Kaggle dataset](https://www.kaggle.com/datasets/saumyapatel/traffic-vehicles-object-detection) you used.
 3. **Replace [Your Name/Handle]:** Change it to your GitHub username or full name.
 
-**How to add this to your repo:**
-
-1. On your GitHub repo page, click **"Add file"** > **"Create new file"**.
-2. Name it `README.md`.
-3. Paste the text above and click **"Commit changes"** at the bottom.
